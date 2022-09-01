@@ -1,0 +1,1 @@
+This is a console based application which performing CRUD operation using spring core,spring orm and mysql. 
